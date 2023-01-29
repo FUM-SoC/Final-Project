@@ -58,7 +58,7 @@ In this section you should practice how to change other people's codes. To do th
 
 <div align="center">
   <img align="center" src="Third Section/Figure_4.png" width="500px" />
-  <figcaption><b><br>Figure 4: Second Section.</b></figcaption>
+  <figcaption><b><br>Figure 4: Third Section.</b></figcaption>
 </div>
 
 
