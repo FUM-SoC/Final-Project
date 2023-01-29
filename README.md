@@ -10,6 +10,7 @@ After running the program, the following figure should be displayed.
   <figcaption><b><br>Figure 1: First Section.</b></figcaption>
 </div>
 
+
 Run an arbitrary scheduling for 10 task and provide the result in the report. 
 
 
@@ -47,6 +48,7 @@ After running the program, the following figures should be displayed.
   <img align="center" src="Second Section/results/execution_gantt.png" width="500px" />
   <figcaption><b><br>Figure 3: Second Section.</b></figcaption>
 </div>
+
 
 
 Take a screenshot of the results you get and put it in the report. Also give a brief explanation about ACO in your report.
