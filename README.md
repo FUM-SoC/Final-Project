@@ -15,8 +15,11 @@ Run an arbitrary scheduling for 10 task and provide the result in the report.
 
 # Second Step
 Download all file in folder with name of Second Step. A program is written in Python language for Ant Colony Optimization (ACO). 
+
 How to run it?
+
 You should flow the four step below:
+
 first: write the below comman in terminal.
 ```sh
 source ACO_project/bin/activate
